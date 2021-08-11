@@ -1,0 +1,23 @@
+{
+  "name": "tryingoutelectron",
+  "version": "1.0.0",
+  "description": "Just trying out electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeneHFang/tryingOutElectron.git"
+  },
+  "author": "Gene H Fang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeneHFang/tryingOutElectron/issues"
+  },
+  "homepage": "https://github.com/GeneHFang/tryingOutElectron#readme",
+  "devDependencies": {
+    "electron": "^13.1.9"
+  }
+}
